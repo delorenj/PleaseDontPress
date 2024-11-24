@@ -1,86 +1,52 @@
-# React + Vite + TypeScript Template (react-vite-ui)
+# 🚫 Please don't press the goddamn button. 🚫
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dan5py/react-vite-ui/blob/main/LICENSE)
+<div align="center">
+  <img src="https://media.giphy.com/media/LRVnPYqM8DLag/giphy.gif" width="300px">
+</div>
 
-A React + Vite template powered by shadcn/ui.
+There is really no need to. I promise. Like seriously promise. With sugar and cherries and plutonium on top.
 
-## 🎉 Features
+## 🤔 Think about it
 
-- **React** - A JavaScript library for building user interfaces.
-- **Vite** - A fast, opinionated frontend build tool.
-- **TypeScript** - A typed superset of JavaScript that compiles to plain JavaScript.
-- **Tailwind CSS** - A utility-first CSS framework.
-- **Tailwind Prettier Plugin** - A Prettier plugin for formatting Tailwind CSS classes.
-- **ESLint** - A pluggable linting utility for JavaScript and TypeScript.
-- **PostCSS** - A tool for transforming CSS with JavaScript.
-- **Autoprefixer** - A PostCSS plugin to parse CSS and add vendor prefixes.
-- **shadcn/ui** - Beautifully designed components that you can copy and paste into your apps.
+Why would I make this app? Why would I spend SO much time - precious time that could have been spent teaching squirrels to waterski or counting individual grains of sand - making this app, just to tell you to not press the button if it really wasn't a big deal? It just doesn't make sense. So I again emplore you to heed my advice because I am knowing the happens when presses are done (of the button)
 
-## ⚙️ Prerequisites
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400px">
+</div>
 
-Make sure you have the following installed on your development machine:
+## ⚖️ Let's weigh outcomes here
 
-- Node.js (version 16 or above)
-- pnpm (package manager)
+I'm an engineer, so I am all about trade-offs. Like trading my sanity for this button. And in this case, there is a clear trade-off: pressing the button vs not pressing the button.
 
-## 🚀 Getting Started
+Pressing the button:
 
-Follow these steps to get started with the react-vite-ui template:
+- 😱 You get to press the button
+- 😔 You might feel good, but this will not last
+- 😰 You may regret your choice
+- 💀 You certainly will regret your choice
+- 🌋 The ancient ones may awaken
+- 🧀 Your cheese may spontaneously combust
 
-1. Clone the repository:
+Not pressing the button:
 
-   ```bash
-   git clone https://github.com/dan5py/react-vite-ui.git
-   ```
+- 😌 You don't have to deal with button press outcome
+- 🌈 You can go about your day as though you have not seen button
+- 🎉 You'll be happy that you made a choice that was not buttonpress
+- 🦄 Your dreams of becoming a professional unicorn tamer remain intact
+- 🥔 Your potatoes stay exactly where you left them
 
-2. Navigate to the project directory:
+So, really, this does not help your button decision so you may continue deliberation while I go reorganize my collection of vintage dust particles.
 
-   ```bash
-   cd react-vite-ui
-   ```
+## 🎭 Final thoughts
 
-3. Install the dependencies:
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350px">
+</div>
 
-   ```bash
-   pnpm install
-   ```
+I hope you understand the gravity of my situation and the importance of your decision. I am counting on you to make the right choice. Please sir or madam, do not press. The fate of all breakfast cereals may depend on it.
 
-4. Start the development server:
+> "The button that should not be pressed, should not be pressed" - Todd, probably
 
-   ```bash
-   pnpm dev
-   ```
-
-## 📜 Available Scripts
-
-- pnpm dev - Starts the development server.
-- pnpm build - Builds the production-ready code.
-- pnpm lint - Runs ESLint to analyze and lint the code.
-- pnpm preview - Starts the Vite development server in preview mode.
-
-## 📂 Project Structure
-
-The project structure follows a standard React application layout:
-
-```python
-react-vite-ui/
-  ├── node_modules/      # Project dependencies
-  ├── public/            # Public assets
-  ├── src/               # Application source code
-  │   ├── components/    # React components
-  │   │   └── ui/        # shadc/ui components
-  │   ├── styles/        # CSS stylesheets
-  │   ├── lib/           # Utility functions
-  │   ├── App.tsx        # Application entry point
-  │   └── index.tsx      # Main rendering file
-  ├── .eslintrc.json     # ESLint configuration
-  ├── index.html         # HTML entry point
-  ├── postcss.config.js  # PostCSS configuration
-  ├── tailwind.config.js # Tailwind CSS configuration
-  ├── tsconfig.json      # TypeScript configuration
-  └── vite.config.ts     # Vite configuration
-```
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+<div align="center">
+  <i>This README was written under duress. Please have mercy. Thank you. ☕</i>
+</div>
